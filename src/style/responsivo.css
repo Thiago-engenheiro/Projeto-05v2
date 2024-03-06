@@ -41,6 +41,11 @@
         column-gap: 0.5em;
     }
 
+    .cabecalho{
+    
+        justify-self: center;
+     }
+
 }
 
 @media only screen and (min-width: 1024px) and (max-width: 1399px) {
@@ -75,6 +80,7 @@
     .secao-vertical .cartao {
         padding: 1.25rem;
     }
+
 
 }
 
